@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gitbaq
-- 👀 I’m interested in learning and developing Java, Solidity, React and so on and so forth
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on building new smart contracts using solidity
-- 📫 How to reach me @gitbaq on twitter 
+- 👀 I am a life long learner, the more you learn the longer you LIVE
+- 🌱 I’m currently interested in developing and deploying distributed applications
+- 💞️ I’m looking to collaborate on open source projects that help cross-platform migrations easier
+- 📫 reach me @gitbaq on twitter 
 
 <!---
 gitbaq/gitbaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
